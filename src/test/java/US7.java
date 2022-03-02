@@ -6,9 +6,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import utilities.CRM_Utilities;
 import utilities.WebDriverFactory;
-
 import java.util.concurrent.TimeUnit;
-
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
 
